@@ -1,5 +1,5 @@
-# cf-python
-Repository for CF course Python scripts
+# cf-instacart
+Repository for CF course Instacart project
 
 This repository holds the course project named Instacart Grocery Basket Analysis. The project comprises of multiple different files, including raw datasets, modified datasets, Python scripts, visualizations, and a final report.
 
